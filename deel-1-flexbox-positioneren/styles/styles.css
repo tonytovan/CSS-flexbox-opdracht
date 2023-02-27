@@ -47,7 +47,7 @@
 .opdracht-5 ul {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -56,9 +56,9 @@
 }
 
 .opdracht-5 ul:nth-of-type(2) {
-    align-items: flex-start;
+    align-items: center;
 }
 
 .opdracht-5 ul:nth-of-type(3) {
-    align-items: flex-start;
+    align-items: flex-end;
 }
